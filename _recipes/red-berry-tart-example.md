@@ -1,7 +1,7 @@
 ---
 
 layout: recipe
-title:  "Red Berry Tart"
+title:  "Red Berry Tart (EXAMPLE)"
 image: red-berry-tart.jpg
 
 tags:
@@ -18,5 +18,7 @@ components:
 - Red Berry Dessert Topping
 
 ---
+
+EXAMPLE RECIPE
 
 A favorite when I go to BBQs (parties, hackathons, your folks' place), this red berry tart is fairly easy to make and packs a huge wow factor.
