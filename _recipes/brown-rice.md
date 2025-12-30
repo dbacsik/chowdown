@@ -8,7 +8,7 @@ tags:
 - instant pot
 
 directions:
-- Cook in instant pot on high pressure for 15 min
+- Cook in instant pot on high pressure for 20 min
 - Natural release, or quick release after 5 min
 
 components:
@@ -18,4 +18,4 @@ components:
 
 ---
 
-Basic brown rice in an instant pot.
+Basic brown rice in an instant pot. From https://www.pressurecookrecipes.com/instant-pot-brown-rice/. 15 min is too short for my taste.
