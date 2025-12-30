@@ -14,7 +14,7 @@ directions:
 components:
 - 1 cup brown rice by volume
 - 1 cup water by volume
-- 10 g salt by mass
+- 5 g salt by mass
 
 ---
 
